@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW5A-25A" package="MBGA121N" speed="1" partNumber="GW5A-LV25MG121NC1/I0"/>
+    <FileList>
+        <File path="D:\FYP\FYP_FPGA\FYP\src\float_add.v" type="verilog"/>
+        <File path="D:\FYP\FYP_FPGA\FYP\src\float_mult.v" type="verilog"/>
+        <File path="D:\FYP\FYP_FPGA\FYP\src\top_module.v" type="verilog"/>
+        <File path="D:\FYP\FYP_FPGA\FYP\src\ave_pool.v" type="verilog"/>
+        <File path="D:\FYP\FYP_FPGA\FYP\src\avg_4.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="0"/>
+        <Option type="looplimit" value="2000"/>
+        <Option type="output_file" value="D:\FYP\FYP_FPGA\FYP\impl\gwsynthesis\FYP.vg"/>
+        <Option type="print_all_synthesis_warning" value="0"/>
+        <Option type="ram_rw_check" value="0"/>
+        <Option type="verilog_language" value="verilog-2001"/>
+        <Option type="vhdl_language" value="vhdl-1993"/>
+    </OptionList>
+</Project>

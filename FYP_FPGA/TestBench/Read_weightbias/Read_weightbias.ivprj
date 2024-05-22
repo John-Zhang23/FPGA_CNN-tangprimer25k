@@ -1,0 +1,13 @@
+Read_weightbias
+src
+1
+Read_weightnbais.v
+tb
+1
+Read_weightnbais_TB.v
+doc
+0
+top
+Read_weightnbais.v
+active_tb
+Read_weightnbais_TB.v

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="avg">
+ <SubModule name="avg_add0" Alu="67" Lut="306"/>
+ <SubModule name="avg_add1" Alu="67" Lut="314"/>
+ <SubModule name="avg_add2" Alu="58" Lut="99"/>
+ <SubModule name="avg_mult0" Lut="319"/>
+</Module>

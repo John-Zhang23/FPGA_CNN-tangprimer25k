@@ -1,0 +1,33 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/float_add.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/float_mult.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/top_module.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/ave_pool.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/avg_4.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/FYP/FYP_FPGA/FYP/impl/temp/rtl_parser.result",
+ "Top" : "",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
