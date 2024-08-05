@@ -1,0 +1,24 @@
+Reading netlist file: "D:\FYP\FYP_FPGA\FYP\impl\gwsynthesis\FYP.vg"
+WARN  (PA1005) : "D:\FYP\FYP_FPGA\FYP\impl\gwsynthesis\FYP.vg":42 | Module 'top_module' contains empty port list
+Parsing netlist file "D:\FYP\FYP_FPGA\FYP\impl\gwsynthesis\FYP.vg" completed
+Processing netlist completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Generate file "D:\FYP\FYP_FPGA\FYP\impl\pnr\FYP.pin.html" completed
+Generate file "D:\FYP\FYP_FPGA\FYP\impl\pnr\FYP.rpt.html" completed
+Generate file "D:\FYP\FYP_FPGA\FYP\impl\pnr\FYP.rpt.txt" completed
+Generate file "D:\FYP\FYP_FPGA\FYP\impl\pnr\FYP.tr.html" completed
+Sun Jun 02 18:19:16 2024
+

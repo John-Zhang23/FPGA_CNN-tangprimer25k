@@ -1,0 +1,35 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file 'D:\FYP\FYP_FPGA\FYP\src\avgpool_matrix.sv'
+Analyzing Verilog file 'D:\FYP\FYP_FPGA\FYP\src\avgpoolonelayer.sv'
+WARN  (EX3788) : Block identifier is required on this block("D:\FYP\FYP_FPGA\FYP\src\avgpoolonelayer.sv":21)
+WARN  (EX3788) : Block identifier is required on this block("D:\FYP\FYP_FPGA\FYP\src\avgpoolonelayer.sv":22)
+Analyzing Verilog file 'D:\FYP\FYP_FPGA\FYP\src\conv.sv'
+Analyzing Verilog file 'D:\FYP\FYP_FPGA\FYP\src\convunit.sv'
+WARN  (EX3788) : Block identifier is required on this block("D:\FYP\FYP_FPGA\FYP\src\convunit.sv":34)
+WARN  (EX3788) : Block identifier is required on this block("D:\FYP\FYP_FPGA\FYP\src\convunit.sv":35)
+Analyzing Verilog file 'D:\FYP\FYP_FPGA\FYP\src\float_add.sv'
+Analyzing Verilog file 'D:\FYP\FYP_FPGA\FYP\src\float_mult.sv'
+Analyzing Verilog file 'D:\FYP\FYP_FPGA\FYP\src\top_module.sv'
+Compiling module 'top_module'("D:\FYP\FYP_FPGA\FYP\src\top_module.sv":1)
+NOTE  (EX0101) : Current top module is "top_module"
+WARN  (EX0203) : Top module "top_module" has no ports("D:\FYP\FYP_FPGA\FYP\src\top_module.sv":1)
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "D:\FYP\FYP_FPGA\FYP\impl\gwsynthesis\FYP.vg" completed
+[100%] Generate report file "D:\FYP\FYP_FPGA\FYP\impl\gwsynthesis\FYP_syn.rpt.html" completed
+GowinSynthesis finish

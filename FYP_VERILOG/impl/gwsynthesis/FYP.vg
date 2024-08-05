@@ -1,0 +1,39 @@
+//
+//Written by GowinSynthesis
+//Product Version "V1.9.9 Beta-4 Education"
+//Sun Jun 02 18:19:12 2024
+
+//Source file index table:
+//file0 "\D:/FYP/FYP_FPGA/FYP/src/avgpool_matrix.sv"
+//file1 "\D:/FYP/FYP_FPGA/FYP/src/avgpoolonelayer.sv"
+//file2 "\D:/FYP/FYP_FPGA/FYP/src/conv.sv"
+//file3 "\D:/FYP/FYP_FPGA/FYP/src/convunit.sv"
+//file4 "\D:/FYP/FYP_FPGA/FYP/src/float_add.sv"
+//file5 "\D:/FYP/FYP_FPGA/FYP/src/float_mult.sv"
+//file6 "\D:/FYP/FYP_FPGA/FYP/src/top_module.sv"
+`pragma protect begin_protected
+`pragma protect version="2.3"
+`pragma protect author="default"
+`pragma protect author_info="default"
+`pragma protect encrypt_agent="GOWIN"
+`pragma protect encrypt_agent_info="GOWIN Encrypt Version 2.3"
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=256)
+`pragma protect key_keyowner="GOWIN",key_keyname="GWK2023-09",key_method="rsa"
+`pragma protect key_block
+EJyD7cgO0E+jGt/Dx5q9LXB41I5vaYNcAHoqVdG+qlBTVa9jAQE3nRTQcj0cmSFVjxspO+9+k2m6
+eaflMLViO5PTIvlfPPMLvxxgI2tDHPB33R9oiJqhg72MjsMtlQCT58zoG1vQXAaHdO1hl/pqlP2l
++aGKWIBJWJLR2Kxh8SEGPe6Bq6XfcBauAOe3egPtRDN/5Ybm0bjUSmuUntAPnC4NmzLUNodT41of
+L6t+/rS0hSxmM2CJNWOTl7k0FHrtLHdUKFhPaehhwUQGg7Z1Mc7b++3VphZBP2pgiYcyIUB9ZfcM
+b8u2S7MzS3Cvy5aiPN03McXqWRY3QSyLKwuLOw==
+
+`pragma protect encoding=(enctype="base64", line_length=76, bytes=208)
+`pragma protect data_keyowner="default-ip-vendor"
+`pragma protect data_keyname="default-ip-key"
+`pragma protect data_method="aes128-cfb"
+`pragma protect data_block
+UdOe+prQX8wpV2z+xiBtKcyU8/oh8Jw0nfhNVuVPxApMhi02a05fX7LQkoiutlK8PUVqA5EF+3fS
+jbtPWI0MZP8FQcqOG74lJT5p8W2zIYnI5zxIwCQ68ZwIUo5cDmrG4SGFin1WAUVVkYDl9fB8d0sH
+jQls5dUytIC7IYiAaxKDRRUU2mRAx/rmIhBbtVfB0F0FI5deZfhF89KfGKGSN3w5tfKCXE/2Hpxi
+PJIVWqYLdVOg/9hG2YL/CNf6qNk0MBE71e+5gbtpyXViP3d1mw==
+`pragma protect end_protected

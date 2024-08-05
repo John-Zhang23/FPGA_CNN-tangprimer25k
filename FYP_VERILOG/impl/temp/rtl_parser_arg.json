@@ -1,0 +1,41 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/CarryLockHeadAdder.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/avgpool_matrix.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/avgpoolonelayer.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/conv.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/convunit.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/top_module.sv",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "D:/FYP/FYP_FPGA/FYP/src/add.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "D:/FYP/FYP_FPGA/FYP/impl/temp/rtl_parser.result",
+ "Top" : "top_module",
+ "VerilogStd" : "sysv",
+ "VhdlStd" : "vhdl_93"
+}

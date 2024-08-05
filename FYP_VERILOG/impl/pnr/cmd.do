@@ -1,0 +1,11 @@
+-d D:\FYP\FYP_FPGA\FYP\impl\gwsynthesis\FYP.vg
+-p GW5A-25A-MBGA121N-1
+-pn GW5A-LV25MG121NC1/I0
+-cfg D:\FYP\FYP_FPGA\FYP\impl\pnr\device.cfg
+-bit
+-tr
+-ph
+-timing
+-cst_error
+-correct_hold 1
+-route_maxfan 23
